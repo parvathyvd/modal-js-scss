@@ -1,0 +1,17 @@
+{
+  "name": "modal-js-z-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass scss/custom.scss css/custom.css -w",
+    "devserver": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.2",
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {}
+}
